@@ -8,7 +8,7 @@ import androidx.compose.ui.test.hasNoClickAction
 import androidx.compose.ui.test.hasText
 import androidx.compose.ui.test.junit4.createAndroidComposeRule
 import androidx.navigation.testing.TestNavHostController
-import com.gobinda.notepad.MainActivity
+import com.gobinda.notepadop.MainActivity
 import dagger.hilt.android.testing.HiltAndroidRule
 import dagger.hilt.android.testing.HiltAndroidTest
 import org.junit.Before

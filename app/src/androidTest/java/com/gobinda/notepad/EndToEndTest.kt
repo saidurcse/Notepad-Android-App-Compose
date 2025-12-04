@@ -11,6 +11,7 @@ import androidx.compose.ui.test.performTextClearance
 import androidx.compose.ui.test.performTextInput
 import com.gobinda.notepad.domain.model.Note
 import com.gobinda.notepad.ui.screens.common.TestTag
+import com.gobinda.notepadop.MainActivity
 import dagger.hilt.android.testing.HiltAndroidRule
 import dagger.hilt.android.testing.HiltAndroidTest
 import org.junit.Before
